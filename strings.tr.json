@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "NOW GAMING | Bahis Altyapısı",
+    "description": "IKO - ICO & Kripto İniş Sayfası Şablonu",
+    "lang": "tr"
+  },
+  "navigation": {
+    "menu_items": [
+      "Ev",
+      "Hakkında",
+      "Çözümler",
+      "Sağlayıcılar",
+      "SSS",
+      "İletişim"
+    ],
+    "languages": [
+      "TR",
+      "ENG"
+    ]
+  },
+  "hero_section": {
+    "subtitle": "EN GELİŞMİŞ",
+    "title": "Bahis Altyapısı",
+    "subtitle2": "Yeni Nesil Çözümler",
+    "description": "Yılların deneyimiyle, bahis platformlarının geleceğini yönlendiren ölçeklenebilir ve güvenli çözümler üretiyoruz.",
+    "cta_button": "Hemen Başlayın"
+  },
+  "brand_section": {
+    "title": "ÖNDE GELEN BAHİS SİTELERİ VE KURUCULAR TARAFINDAN DESTEKLENMEKTEDİR"
+  },
+  "about_section": {
+    "title": "NOWGAMING HAKKINDA",
+    "subtitle": "Neden Now Gaming?",
+    "description": "İşletmeler için bahis sistemleri çözümleri oluşturmak için birçok şirketle çalıştık ve hala büyümeye devam ediyoruz.",
+    "features": [
+      {
+        "title": "Esneklik",
+        "description": "İşletmeleri için blok zinciri çözümleri oluşturmak üzere 400'den fazla şirketle çalıştık.",
+        "checklist": [
+          {
+            "title": "Çoklu Platform",
+            "description": "Nowgaming her platformda sorunsuz çalışır."
+          },
+          {
+            "title": "Entegrasyon",
+            "description": "API ve eklenti desteği ile sistemlerinizi entegre edin."
+          },
+          {
+            "title": "Araçlar",
+            "description": "Önceden oluşturulmuş güçlü araçları kullanın."
+          }
+        ]
+      },
+      {
+        "title": "Ödemeler",
+        "description": [
+          "Birçok ödeme yöntemi entegre edilmiştir.",
+          "Bahis şirketleri için kapsamlı şube ağı çözümü."
+        ]
+      },
+      {
+        "title": "Güvenli ve emniyetli",
+        "description": [
+          "Sistemimiz düzenli olarak taranmakta, analiz edilmekte ve en son güvenlik güncellemeleri ile korunmaktadır.",
+          "7/24 Güvenlik İzleme ve Anlık Uyarılar",
+          "Yetkilendirme ve erişim kontrolleri ile maksimum güvenlik"
+        ]
+      }
+    ]
+  },
+  "solutions_section": {
+    "title": "ÇÖZÜMLER",
+    "subtitle": "İşletmeniz için ne anlama geliyor?",
+    "description": "Sağlam ve güvenilir altyapımızla müşterilerinize kesintisiz hizmet sunun, operasyonel verimliliği artırın ve sektörünüzde rekabet avantajı elde edin.",
+    "features": [
+      {
+        "title": "Destek",
+        "description": "Sorulara gerçek zamanlı olarak yardımcı olmak için canlı sohbet ve otomatik yanıtlar sunar.",
+        "icon": "fa-robot"
+      },
+      {
+        "title": "İştirak",
+        "description": "Trafiği artırmak ve yönlendirme programları aracılığıyla komisyon kazanmak için iş ortaklarıyla işbirliği yapın.",
+        "icon": "fa-hexagon-nodes"
+      },
+      {
+        "title": "Ajan",
+        "description": "Temsilcileri yönetmek ve daha iyi performans için operasyonlarını düzenlemek için bir sistem.",
+        "icon": "fa-handshake-simple"
+      },
+      {
+        "title": "Oyunlar",
+        "description": "Sonsuz çeşitlilik ve heyecan sunan çok çeşitli sağlayıcılardan binlerce oyuna erişin.",
+        "icon": "fa-dice-five"
+      },
+      {
+        "title": "Canlı Yayın",
+        "description": "Canlı spor içeriklerini gerçek zamanlı olarak izleyin, aksiyonu doğrudan ekranınıza getirin.",
+        "icon": "fa-circle-play"
+      },
+      {
+        "title": "Uygulama",
+        "description": "Tüm cihazlarınızdan sorunsuz erişim için tasarlanmış çok platformlu uygulamalar.",
+        "icon": "fa-laptop"
+      }
+    ]
+  },
+  "providers_section": {
+    "title": "SAĞLAYICILAR",
+    "subtitle": "En popüler sağlayıcılar"
+  },
+  "faq_section": {
+    "title": "SSS",
+    "subtitle": "Now Gaming hakkında popüler sorular",
+    "description": "İşletmeleri için blok zinciri çözümleri oluşturmak üzere 400'den fazla şirketle çalıştık ve hala büyümeye devam ediyoruz.",
+    "questions": [
+      {
+        "question": "Now Gaming nedir?",
+        "answer": "Now Gaming, bahis siteleri için geliştirilmiş bir altyapı hizmetidir."
+      },
+      {
+        "question": "Yardıma ihtiyacım olursa ne yapmalıyım?"
+      },
+      {
+        "question": "Demo sürümü var mı?"
+      },
+      {
+        "question": "Lisans almak için hangi süreci takip etmeliyim?"
+      },
+      {
+        "question": "Ortaklık programı için komisyon nasıl hesaplanır?"
+      }
+    ]
+  },
+  "crypto_section": {
+    "title": "Kripto Ödemeleri",
+    "description": "Her türlü ödeme çözümünü destekleyen altyapımız ile ödemelerinizi kripto para birimleri ile alabilir ve gönderebilirsiniz.",
+    "cta_button": "Hemen başlayın"
+  },
+  "contact_section": {
+    "title": "İLETİŞİM",
+    "subtitle": "Bize Ulaşın",
+    "info": {
+      "location": {
+        "title": "Konum",
+        "address": "1901 Thornridge Cir. Shiloh, Hawaii"
+      },
+      "contact": {
+        "title": "İletişim",
+        "phones": [
+          "+88(0) 555-0108",
+          "+88(0) 555-01117"
+        ]
+      },
+      "email": {
+        "title": "E-posta",
+        "addresses": [
+          "sara.cruz@example.com",
+          "iko.@example.com"
+        ]
+      },
+      "hours": {
+        "title": "Çalışma Saatleri",
+        "schedule": {
+          "weekdays": "Pzt - Cts : 8.00-5.00",
+          "sunday": "Pazar : Kapalı"
+        }
+      }
+    },
+    "form": {
+      "title": "Bizimle İletişime Geçin",
+      "placeholders": {
+        "name": "Adınız",
+        "email": "E-posta Adresiniz",
+        "message": "Mesajınızı yazın....."
+      },
+      "submit_button": "Mesaj Gönder"
+    }
+  },
+  "footer": {
+    "about_text": "Sağlam ve güvenilir altyapımızla müşterilerinize kesintisiz hizmet sunun, operasyonel verimliliği artırın ve sektörünüzde rekabet avantajı elde edin.",
+    "copyright": "Telif Hakkı © 2025 NOW GAMING"
+  },
+  "alt_texts": {
+    "logo": "Logo",
+    "brand_images": "görsel",
+    "provider_images": {
+      "default": "Sağlayıcı",
+      "numbered": ["Sağlayıcı 1", "Sağlayıcı 5", "Sağlayıcı 6", "Sağlayıcı 7", "Sağlayıcı 8", "Sağlayıcı 10"]
+    },
+    "footer_logo": "iko"
+  }
+} 

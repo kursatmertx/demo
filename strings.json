@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "title": "NOW GAMING | Betting Infrastructure",
+    "description": "IKO - ICO & Crypto Landing Page Template",
+    "lang": "zxx"
+  },
+  "navigation": {
+    "menu_items": [
+      "Home",
+      "About",
+      "Solutions",
+      "Providers",
+      "FAQ",
+      "Contact"
+    ],
+    "languages": [
+      "ENG",
+      "TR"
+    ]
+  },
+  "hero_section": {
+    "subtitle": "MOST ADVANCED",
+    "title": "Betting Infrastructure",
+    "subtitle2": "Next-Gen Solutions",
+    "description": "With years of experience, we craft scalable and secure solutions that drive the future of betting platforms.",
+    "cta_button": "Get Started Today"
+  },
+  "brand_section": {
+    "title": "BACKED BY LEADING BETTING SITES AND FOUNDERS"
+  },
+  "about_section": {
+    "title": "ABOUT NOWGAMING",
+    "subtitle": "Why Now Gaming?",
+    "description": "We have worked with many companies to create betting systems solutions for businesses and we are still growing.",
+    "features": [
+      {
+        "title": "Flexibility",
+        "description": "We've worked with over 400 companies to build blockchain solutions for their business.",
+        "checklist": [
+          {
+            "title": "Multi Platform",
+            "description": "Nowgaming works seamlessly on every platform."
+          },
+          {
+            "title": "Integration",
+            "description": "Integrate your systems with API and plugin support."
+          },
+          {
+            "title": "Tools",
+            "description": "Use powerful pre-built tools."
+          }
+        ]
+      },
+      {
+        "title": "Payments",
+        "description": [
+          "Many payment methods are integrated.",
+          "Comprehensive branch network solution for betting companies."
+        ]
+      },
+      {
+        "title": "Secure & Safe",
+        "description": [
+          "Our system is regularly scanned, analysed and protected with the latest security updates.",
+          "24/7 Security Monitoring and Instant Alerts",
+          "Maximum security with authorisation and access controls"
+        ]
+      }
+    ]
+  },
+  "solutions_section": {
+    "title": "SOLUTIONS",
+    "subtitle": "What does it mean for your business?",
+    "description": "Deliver uninterrupted service to your customers, increase operational efficiency and gain a competitive advantage in your industry with our robust and reliable infrastructure.",
+    "features": [
+      {
+        "title": "Support",
+        "description": "Offering live chat and automated responses to assist with inquiries in real time.",
+        "icon": "fa-robot"
+      },
+      {
+        "title": "Affiliate",
+        "description": "Collaborate with partners to drive traffic and earn commissions through referral programs.",
+        "icon": "fa-hexagon-nodes"
+      },
+      {
+        "title": "Agent",
+        "description": "A system for managing agents and streamlining their operations for better performance.",
+        "icon": "fa-handshake-simple"
+      },
+      {
+        "title": "Games",
+        "description": "Access thousands of games from a wide range of providers, offering endless variety and excitement.",
+        "icon": "fa-dice-five"
+      },
+      {
+        "title": "Live Stream",
+        "description": "Watch live sports content in real-time, delivering the action straight to your screen.",
+        "icon": "fa-circle-play"
+      },
+      {
+        "title": "Application",
+        "description": "Multi-platform applications designed for seamless access across all your devices.",
+        "icon": "fa-laptop"
+      }
+    ]
+  },
+  "providers_section": {
+    "title": "PROVIDERS",
+    "subtitle": "Most popular providers"
+  },
+  "faq_section": {
+    "title": "FAQ",
+    "subtitle": "Popular questions about Now Gaming",
+    "description": "We've worked with over 400 companies to build blockchain solutions for their business, and we are still growing.",
+    "questions": [
+      {
+        "question": "What is Now Gaming?",
+        "answer": "Now Gaming is an infrastructure service developed for betting sites."
+      },
+      {
+        "question": "What should I do if I need help?"
+      },
+      {
+        "question": "Is there a demo version?"
+      },
+      {
+        "question": "What process should I follow to obtain a licence?"
+      },
+      {
+        "question": "How to calculate commission for affiliate programme?"
+      }
+    ]
+  },
+  "crypto_section": {
+    "title": "Crypto Payments",
+    "description": "With our infrastructure that supports all kinds of payment solutions, you can receive and send your payments with cryptocurrencies.",
+    "cta_button": "Get started"
+  },
+  "contact_section": {
+    "title": "CONTACT",
+    "subtitle": "Contact Us",
+    "info": {
+      "location": {
+        "title": "Location",
+        "address": "1901 Thornridge Cir. Shiloh, Hawaii"
+      },
+      "contact": {
+        "title": "Contact",
+        "phones": [
+          "+88(0) 555-0108",
+          "+88(0) 555-01117"
+        ]
+      },
+      "email": {
+        "title": "Email",
+        "addresses": [
+          "sara.cruz@example.com",
+          "iko.@example.com"
+        ]
+      },
+      "hours": {
+        "title": "Visit Between",
+        "schedule": {
+          "weekdays": "Mon - Sat : 8.00-5.00",
+          "sunday": "Sunday : Closed"
+        }
+      }
+    },
+    "form": {
+      "title": "Get In Touch Now",
+      "placeholders": {
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Enter you message....."
+      },
+      "submit_button": "Send Message"
+    }
+  },
+  "footer": {
+    "about_text": "Deliver uninterrupted service to your customers, increase operational efficiency and gain a competitive advantage in your industry with our robust and reliable infrastructure.",
+    "copyright": "Copyright © 2025 NOW GAMING"
+  },
+  "alt_texts": {
+    "logo": "Logo",
+    "brand_images": "img",
+    "provider_images": {
+      "default": "Provider",
+      "numbered": ["Provider 1", "Provider 5", "Provider 6", "Provider 7", "Provider 8", "Provider 10"]
+    },
+    "footer_logo": "iko"
+  }
+} 
